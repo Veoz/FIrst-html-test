@@ -1,0 +1,17 @@
+{
+  "name": "index",
+  "description": "first html  task",
+  "main": "index.js",
+  "authors": [
+    "Veoz <VEoz.id@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

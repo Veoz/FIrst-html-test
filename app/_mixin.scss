@@ -1,0 +1,9 @@
+
+@mixin hr($margin-t){
+  hr{
+    margin: $margin-t;
+    border: 0;
+    padding: 1px;
+    background: $bg-dark-section;
+  }
+}
